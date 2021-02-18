@@ -1,0 +1,11 @@
+This is a fork of Material design icons from Google to use with [Kalipso Studio](https://sysdevkalipso.com/en).
+
+Material design icons is the official [icon set](https://www.google.com/design/spec/style/icons.html#icons-system-icons) from Google.  
+The icons are designed under the [material design guidelines](https://material.io/guidelines/).
+
+
+###How to use?
+
+Just copy the folder GoogleMDIcons to:
+
+X:\ [Instalation folder] \Kalipso 5.0.0\Designer\Icons
