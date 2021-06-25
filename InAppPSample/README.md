@@ -1,6 +1,6 @@
 # InAppPSample
 
-Sample to exemplify the use of in App Purschase.
+Sample to exemplify the use of in App Purchase.
 
 Please read carfully the documentation, specially the Google and Apple docs:
 
