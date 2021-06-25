@@ -29,3 +29,6 @@ To use Kalipso voice with bluetooth headset you should add them like this exampl
 
 ### OMS
 Example how to get GPS Coordinates, an address and a map.
+
+### InAppPSample
+Sample to exemplify the use of in App Purchase.
