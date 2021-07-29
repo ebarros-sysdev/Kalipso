@@ -32,3 +32,6 @@ Example how to get GPS Coordinates, an address and a map.
 
 ### InAppPSample
 Sample to exemplify the use of in App Purchase.
+
+### settings
+Forget INI to Android and iOS. Use a QR Code to set up your settings.
