@@ -27,7 +27,7 @@ How to convert an image to Base64 and other way around.
 ### BT Pair
 To use Kalipso voice with bluetooth headset you should add them like this example.
 
-### OMS
+### OSM
 Example how to get GPS Coordinates, an address and a map.
 
 ### InAppPSample
