@@ -5,9 +5,9 @@ INI files are not a great solution for Android and iOS devices.
 
 But you can use the camera to read a QRcode and setup your app.
 
-This way you can even send your QRcode my email/chat!
+This way you can even send your QRcode by email/chat!
 
-In this example you can generate a QR code to setup MIS settings.
+In this example you can generate a QR code to setup MIS settings aka Communication Profile.
 
 The logic is:
 
