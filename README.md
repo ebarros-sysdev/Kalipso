@@ -35,3 +35,10 @@ Sample to exemplify the use of in App Purchase.
 
 ### settings
 Forget INI to Android and iOS. Use a QR Code to set up your settings.
+
+### RFID_Zebra
+Sample to demonstrate how to do an inventory of UHF RFID Tags using a portable Zebra device or a Fixed Zebra Device like the FX7500.
+
+### RFID_Chainway
+Sample to use a portable BT Chainway UHF RFID device like the R6.
+
