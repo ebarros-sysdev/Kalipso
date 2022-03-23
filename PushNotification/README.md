@@ -17,7 +17,11 @@ Go to Settings of your project > Cloud Messaging > Copy the Server Key.
 ### Images:
 To get google-services.json
 
+![Go to Settings-General](https://raw.githubusercontent.com/ebarros-sysdev/Kalipso/main/PushNotification/1.png)
+![scrool down](https://raw.githubusercontent.com/ebarros-sysdev/Kalipso/main/PushNotification/2.png)
+
 To get Server Key
+![get server key](https://raw.githubusercontent.com/ebarros-sysdev/Kalipso/main/PushNotification/3.png)
 
 
 
