@@ -14,7 +14,7 @@
 <body>
 <div id="map"></div>
 <script>
-	var center = [-9.6594603, 40.6296719];
+	var center = [-8.6594603, 40.6296719];
     var map = new maplibregl.Map({
         container: 'map', // container id
 		center: center,
